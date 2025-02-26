@@ -1,0 +1,6 @@
+{
+    "verbose": true,
+    "ignore": ["noe_modules", ".next"],
+    "watch": [".//", ".js"],
+    "ext":"js json"
+}
